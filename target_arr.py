@@ -13,8 +13,8 @@ def targetArr( num, arr ):
                 #print("successful j=", j)
                 return [arr[i], arr[j]]
 
-arr = [2,7,11,15]
-given_num = 9
+#arr = [2,7,11,15]
+#given_num = 9
 
 
 #print(targetArr(9, arr))
